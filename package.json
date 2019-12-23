@@ -1,0 +1,21 @@
+{
+    "name": "@runejs/logger",
+    "version": "1.0.0",
+    "description": "Rune.JS Custom Logger Implementation",
+    "main": "dist/logger.js",
+    "types": "dist/logger.d.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:rune-js/logger.git"
+    },
+    "author": "TheBlackParade",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "moment": "^2.24.0",
+        "typescript": "^3.7.2"
+    }
+}
